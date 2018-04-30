@@ -1,0 +1,5 @@
+C:\Users\Media\RiderProjects\DependecyCollector\DependecyCollector\obj\Debug\DependecyCollector.csprojResolveAssemblyReference.cache
+C:\Users\Media\RiderProjects\DependecyCollector\DependecyCollector\bin\Debug\DependecyCollector.exe
+C:\Users\Media\RiderProjects\DependecyCollector\DependecyCollector\bin\Debug\DependecyCollector.pdb
+C:\Users\Media\RiderProjects\DependecyCollector\DependecyCollector\obj\Debug\DependecyCollector.exe
+C:\Users\Media\RiderProjects\DependecyCollector\DependecyCollector\obj\Debug\DependecyCollector.pdb
