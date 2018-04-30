@@ -1,2 +1,1 @@
-# DependencyCollector
-collect assembly dependencies 
+DependecyCollector
